@@ -18,7 +18,7 @@ Have Hindi (Bollywood) songs become more "sad" or more "party"/upbeat over the l
 | Aggregation queries, window functions | SQL (PostgreSQL) |
 | Final dashboard (in progress) | Power BI |
 
-## Data Cleaning()
+## Data Cleaning
 
 - Removed non-analytical columns: `artwork_url`, `track_url` (image/playback links with no analytical value).
 - Kept `track_id`, `track_name`, `artist_name`, `album_name` as reference/display columns (not used in numeric analysis).
