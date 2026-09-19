@@ -18,7 +18,7 @@ Have Hindi (Bollywood) songs become more "sad" or more "party"/upbeat over the l
 | Aggregation queries, window functions | SQL (PostgreSQL) |
 | Final dashboard (in progress) | Power BI |
 
-## Data Cleaning
+## Data Cleaning()
 
 - Removed non-analytical columns: `artwork_url`, `track_url` (image/playback links with no analytical value).
 - Kept `track_id`, `track_name`, `artist_name`, `album_name` as reference/display columns (not used in numeric analysis).
@@ -50,7 +50,7 @@ There is a clear reversal in mood composition of Hindi songs between 2010 and 20
 
 The shift wasn't gradual and steady — it happened fastest between 2010–2013, briefly reversed around 2018–2019, and reasserted itself afterward, with 2023 showing a near-equal split before diverging again in 2024.
 
-*(Trend chart to be inserted here — ``)*
+*(Trend chart to be inserted here — `trend_chart.png`)*
 
 ## SQL Analysis
 
