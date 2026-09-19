@@ -1,7 +1,7 @@
 -- ============================================================
 -- Hindi Songs Mood Trend Analysis (2010-2024)
 -- Database: PostgreSQL
--- Table: songs (4,456 rows — filtered to Hindi tracks, mood classified in Python)
+-- Table: songs (2,374 rows — filtered to Hindi tracks, mood classified in Python)
 -- ============================================================
  
 -- 1. Basic sanity checks after import
