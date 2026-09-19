@@ -50,7 +50,7 @@ There is a clear reversal in mood composition of Hindi songs between 2010 and 20
 
 The shift wasn't gradual and steady — it happened fastest between 2010–2013, briefly reversed around 2018–2019, and reasserted itself afterward, with 2023 showing a near-equal split before diverging again in 2024.
 
-*(Trend chart to be inserted here — `[trend_chart.png](https://github.com/272006Sakshi/the-sadness-index/blob/d749a9ea2b96cbcfb5f03424c5d4d05af8bfeff7/trend_chart.png)`)*
+*(Trend chart to be inserted here — `[trend_chart.png]`)*
 
 ## SQL Analysis
 
