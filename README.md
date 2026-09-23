@@ -50,7 +50,9 @@ There is a clear reversal in mood composition of Hindi songs between 2010 and 20
 
 The shift wasn't gradual and steady — it happened fastest between 2010–2013, briefly reversed around 2018–2019, and reasserted itself afterward, with 2023 showing a near-equal split before diverging again in 2024.
 
-*(Trend chart to be inserted here — `[trend_chart.png]`)*
+## Trend Chart
+
+![Trend Analysis](trend_chart.png)
 
 ## SQL Analysis
 
@@ -71,4 +73,4 @@ Performed in PostgreSQL on the cleaned, classified dataset (`songs` table, 2,374
 ## Next Steps
 
 - Build an interactive Power BI dashboard consolidating the trend chart, mood-vs-audio-feature comparisons, and top tracks per category.
-- (Optional) Extend the same pipeline to another language in the dataset for comparison.
+- Extend the same pipeline to another language in the dataset for comparison.
