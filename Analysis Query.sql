@@ -4,7 +4,7 @@
 -- Table: songs (2,374 rows — filtered to Hindi tracks, mood classified in Python)
 -- ============================================================
  
--- 1. Basic sanity checks after import
+-- 1. Basic sanity checks after import 
 SELECT COUNT(*) FROM songs;
  
 SELECT * FROM songs LIMIT 5;
