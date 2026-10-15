@@ -10,7 +10,7 @@ Have Hindi (Bollywood) songs become more "sad" or more "party"/upbeat over the l
 - **Note on methodology:** Spotify deprecated its public Audio Features API endpoint for new developer apps in November 2024. This project therefore uses a pre-collected dataset that captured these features before the deprecation, rather than pulling live data via the API. 
 - Filtered to `language == 'Hindi'`, giving a working dataset of **2,374 tracks**.
 
-## Tools Used
+## Tools used
 
 | Task | Tool |
 |---|---|
